@@ -25,19 +25,19 @@
   "author": "YourName",
   "license": "MIT",
   "dependencies": {
-    "adm-zip": "^0.5.14",
-    "axios": "^1.7.2",
-    "express": "^4.19.2",
-    "express-session": "^1.18.0",
-    "form-data": "^4.0.0",
+    "adm-zip": "latest",
+    "axios": "latest",
+    "express": "latest",
+    "express-session": "latest",
+    "form-data": "latest",
     "mineflayer": "latest",
     "mineflayer-pathfinder": "latest",
-    "multer": "^1.4.5-lts.1",
-    "qs": "^6.12.1",
-    "vec3": "^0.1.10",
-    "ws": "^8.17.1"
+    "multer": "latest",
+    "qs": "latest",
+    "vec3": "latest",
+    "ws": "latest"
   },
   "devDependencies": {
-    "nodemon": "^3.1.4"
+    "nodemon": "latest"
   }
 }
