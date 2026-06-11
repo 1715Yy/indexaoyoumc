@@ -1,14 +1,12 @@
 {
   "name": "pathfinder-pro-2025",
   "version": "1.0.0",
-  "description": "Advanced Mineflayer-based bot framework with pathfinding, Express web interface",
+  "description": "free",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js",
-    "install-v": "npm install",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install-v": "npm install"
   },
   "engines": {
     "node": ">=21.0.0"
@@ -29,15 +27,11 @@
     "axios": "latest",
     "express": "latest",
     "express-session": "latest",
-    "form-data": "latest",
     "mineflayer": "latest",
     "mineflayer-pathfinder": "latest",
     "multer": "latest",
     "qs": "latest",
     "vec3": "latest",
     "ws": "latest"
-  },
-  "devDependencies": {
-    "nodemon": "latest"
   }
 }
